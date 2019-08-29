@@ -668,7 +668,3 @@ cleanTeams.show()
 
     cleanTeams: org.apache.spark.sql.DataFrame = [home_city: string, home_team: string ... 2 more fields]
     
-
-
-
-## Lab: Joining the wine list 
